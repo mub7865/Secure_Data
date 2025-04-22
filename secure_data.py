@@ -1,5 +1,5 @@
-import streamlit as st # type: ignore
-from cryptography.fernet import Fernet # type: ignore
+import streamlit as st  # type: ignore
+from cryptography.fernet import Fernet  # type: ignore
 import hashlib
 import json
 import os
